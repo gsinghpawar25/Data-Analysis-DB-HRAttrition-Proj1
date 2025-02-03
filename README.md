@@ -1,11 +1,11 @@
 # Data-Analysis-DB-HRAttrition-Proj1
 README - Tableau Workbook (Attrition Analysis)
 
-#1. Overview
+# 1. Overview
 
 This Tableau workbook is designed for analyzing employee attrition based on various factors such as gender, age, job satisfaction, department, and education field. It helps HR professionals and business analysts identify trends and patterns that may contribute to employee turnover, providing actionable insights to improve retention strategies.
 
-2. Data Sources
+# 2. Data Sources
 
 The workbook includes multiple data sources, primarily federated sources and parameters:
 
@@ -19,7 +19,7 @@ Departmental Information: Details about different departments, roles, and organi
 
 Performance Metrics: Includes KPIs that reflect employee performance, engagement, and satisfaction levels.
 
-3. Worksheets
+# 3. Worksheets
 
 The workbook consists of multiple worksheets, each focusing on a specific aspect of employee attrition:
 
@@ -37,7 +37,7 @@ Number of Employees by Age Group - Represents the distribution of employees acro
 
 Department Wise Attrition - Analyzes attrition rates across different departments, helping identify areas with high turnover.
 
-4. Dashboards
+# 4. Dashboards
 
 HR Analytics Dashboard: The primary dashboard consolidating insights from multiple worksheets. It provides:
 
@@ -49,7 +49,7 @@ Visual comparisons of attrition across different demographics and job-related fa
 
 Predictive insights based on historical attrition data.
 
-5. Usage Guide
+# 5. Usage Guide
 
 Opening the Workbook: Open the Tableau workbook in Tableau Desktop.
 
@@ -61,7 +61,7 @@ Modifying Visuals: Adjust charts, graphs, and tables as needed to align with spe
 
 Extending Analysis: Add new calculated fields, blend additional data sources, or customize dashboards for deeper insights.
 
-6. Future Improvements
+# 6. Future Improvements
 
 Enhance Interactivity: Add more user-driven filters and drill-down capabilities.
 
@@ -71,7 +71,7 @@ Expand Data Sources: Integrate additional HR datasets, such as employee engageme
 
 Improve Visualization Design: Refine charts and dashboards to enhance readability and user experience.
 
-7. Author & Contact
+# 7. Author & Contact
 
 For any questions, modifications, or additional feature requests, please contact the author of this workbook.
 
