@@ -1,7 +1,7 @@
 # Data-Analysis-DB-HRAttrition-Proj1
 README - Tableau Workbook (Attrition Analysis)
 
-1. Overview
+#1. Overview
 
 This Tableau workbook is designed for analyzing employee attrition based on various factors such as gender, age, job satisfaction, department, and education field. It helps HR professionals and business analysts identify trends and patterns that may contribute to employee turnover, providing actionable insights to improve retention strategies.
 
