@@ -7,17 +7,7 @@ This Tableau workbook is designed for analyzing employee attrition based on vari
 
 # 2. Data Sources
 
-The workbook includes multiple data sources, primarily federated sources and parameters:
-
-Parameters: Used for dynamic filtering, allowing users to modify views and conduct what-if analysis.
-
-Federated Data Sources: Integrated sources for HR analytics, possibly sourced from databases, Excel files, or cloud-based services.
-
-Employee Data: Contains personal, professional, and employment-related attributes such as age, gender, education field, job satisfaction, and attrition status.
-
-Departmental Information: Details about different departments, roles, and organizational structures.
-
-Performance Metrics: Includes KPIs that reflect employee performance, engagement, and satisfaction levels.
+- <a href="">HR Data</a>
 
 # 3. Worksheets
 
