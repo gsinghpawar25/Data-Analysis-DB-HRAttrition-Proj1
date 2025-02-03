@@ -44,7 +44,19 @@ Visual comparisons of attrition across different demographics and job-related fa
 
 Predictive insights based on historical attrition data.
 
-# 5. Usage Guide
+# 5. Key Insights
+
+Higher Attrition Among Younger Employees - Employees in younger age groups exhibit a higher attrition rate, indicating potential dissatisfaction or early career job changes.
+
+Gender Disparities in Attrition - The attrition rate differs between male and female employees, suggesting gender-related workplace dynamics that may require further analysis.
+
+Job Satisfaction Correlation - Lower job satisfaction scores are directly correlated with higher attrition, emphasizing the need for improving work conditions and employee engagement.
+
+Department-Specific Trends - Certain departments show significantly higher turnover rates, suggesting the need for department-specific retention strategies.
+
+Education and Attrition Link - Employees from specific education fields show varying attrition rates, potentially indicating skill mismatches or career progression challenges.
+
+# 6. Usage Guide
 
 Opening the Workbook: Open the Tableau workbook in Tableau Desktop.
 
@@ -56,7 +68,7 @@ Modifying Visuals: Adjust charts, graphs, and tables as needed to align with spe
 
 Extending Analysis: Add new calculated fields, blend additional data sources, or customize dashboards for deeper insights.
 
-# 6. Future Improvements
+# 7. Future Improvements
 
 Enhance Interactivity: Add more user-driven filters and drill-down capabilities.
 
@@ -66,8 +78,8 @@ Expand Data Sources: Integrate additional HR datasets, such as employee engageme
 
 Improve Visualization Design: Refine charts and dashboards to enhance readability and user experience.
 
-# 7. Author & Contact
+# 8. Author & Contact
 
-For any questions, modifications, or additional feature requests, please contact the author of this workbook.
+For any questions, modifications, or additional feature requests, please contact the author of this workbook :-singhpawargyanendra@gmail.com
 
 
