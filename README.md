@@ -7,7 +7,7 @@ This Tableau workbook is designed for analyzing employee attrition based on vari
 
 # 2. Data Sources
 
-- <a href="">HR Data</a>
+- <a href="https://github.com/gsinghpawar25/Data-Analysis-DB-HRAttrition-Proj1/blob/main/HR%20Data.xlsx">HR Data</a>
 
 # 3. Worksheets
 
@@ -28,6 +28,9 @@ Number of Employees by Age Group - Represents the distribution of employees acro
 Department Wise Attrition - Analyzes attrition rates across different departments, helping identify areas with high turnover.
 
 # 4. Dashboards
+
+## Image Reference : - <a href="https://github.com/gsinghpawar25/Data-Analysis-DB-HRAttrition-Proj1/blob/main/HR%20data%20analysis.png">Dashboard Image</a>
+## Dashboard Link : - <a href="https://public.tableau.com/views/Proj-1HRdataanalysisAttrition/HRAnalytics?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Dashboard Link</a>
 
 HR Analytics Dashboard: The primary dashboard consolidating insights from multiple worksheets. It provides:
 
