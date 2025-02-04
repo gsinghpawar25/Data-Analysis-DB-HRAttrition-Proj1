@@ -1,5 +1,4 @@
-# Data-Analysis-DB-HRAttrition-Proj1
-README - Tableau Workbook (Attrition Analysis)
+#  Workbook (Attrition Analysis)
 
 # 1. Overview
 
